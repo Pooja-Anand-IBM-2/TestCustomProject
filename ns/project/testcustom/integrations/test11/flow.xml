@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FLOW VERSION="3.2" CLEANUP="true">
+  <COMMENT></COMMENT>
+
+  <!-- nodes -->
+
+<INVOKE NAME="Invoke rest:project.test_pa_rest_new.Test_pa_rest_newProject.uber_1" TIMEOUT="" SERVICE="project.testcustom.TestCustomProject.project_testcustom_TestCustomProject_1.operations.actions:getME" VALIDATE-IN="" VALIDATE-OUT="">
+  <COMMENT></COMMENT>
+</INVOKE>
+</FLOW>
