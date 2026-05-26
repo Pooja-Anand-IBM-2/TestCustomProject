@@ -591,7 +591,7 @@
     <value name="virtualServiceName">WmCloudStreams.RestVS</value>
     <value name="connectionName">$connectionAlias</value>
     <null name="connectionType"/>
-    <value name="connectorID">project.testcustom.TestCustomProject.uber1</value>
+    <value name="connectorID">project.test1.Test1Project.uber1</value>
     <record name="customData" javaclass="com.wm.util.Values">
       <array name="customInputHeaders" type="record" depth="1">
         <record javaclass="com.wm.util.Values">
