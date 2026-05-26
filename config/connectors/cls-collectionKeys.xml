@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="project.testcustom.TestCustomProject.project_testcustom_TestCustomProject_200.operations.actions:receivedInvoiceGET201" connectorServiceName="project.testcustom.TestCustomProject.project_testcustom_TestCustomProject_200.operations.actions:receivedInvoiceGET201"/>
+            <keyDetails collectionKey="project.testcustom.TestCustomProject.project_testcustom_TestCustomProject_REST3.operations.actions:getInvoice" connectorServiceName="project.testcustom.TestCustomProject.project_testcustom_TestCustomProject_REST3.operations.actions:getInvoice"/>
+            <keyDetails collectionKey="project.testcustom.TestCustomProject.project_testcustom_TestCustomProject_uber1.operations.actions:getHISTORY" connectorServiceName="project.testcustom.TestCustomProject.project_testcustom_TestCustomProject_uber1.operations.actions:getHISTORY"/>
+            <keyDetails collectionKey="project.testcustom.TestCustomProject.project_testcustom_TestCustomProject_uber1.operations.actions:getME" connectorServiceName="project.testcustom.TestCustomProject.project_testcustom_TestCustomProject_uber1.operations.actions:getME"/>
+            <keyDetails collectionKey="project.testcustom.TestCustomProject.project_testcustom_TestCustomProject_uber1.operations.actions:getPRICE" connectorServiceName="project.testcustom.TestCustomProject.project_testcustom_TestCustomProject_uber1.operations.actions:getPRICE"/>
+            <keyDetails collectionKey="project.testcustom.TestCustomProject.project_testcustom_TestCustomProject_uber1.operations.actions:getTIME" connectorServiceName="project.testcustom.TestCustomProject.project_testcustom_TestCustomProject_uber1.operations.actions:getTIME"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
